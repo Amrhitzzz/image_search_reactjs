@@ -6,7 +6,7 @@ let times = dates.getHours();
 let greeting = "";
 if (times >= 1 && times < 12) {
     greeting = 'Good Morning';
-} else if (times >= 12 && times < 19) {
+} else if (times >= 12 && times <= 17) {
     greeting = "Good Afternooon";
 } else {
     greeting = 'Good Night';
