@@ -1,8 +1,6 @@
-### This project is hosted here: 
-link: [image_search_react](https://amrhitzz.github.io/image_search_reactjs)
+### This project is hosted here: link->> [image_search_react](https://amrhitzz.github.io/image_search_reactjs)
 
 
-<<<Summary of Projects >>>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
